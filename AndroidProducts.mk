@@ -5,4 +5,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_akita.mk \
-    $(LOCAL_DIR)/lineage_akita.mk
+    $(LOCAL_DIR)/afterlife_akita.mk
