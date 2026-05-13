@@ -23,6 +23,8 @@ ro.vendor.primarydisplay.google-ak3b.temperature_path=/dev/thermal/tz-by-name/di
 vendor.primarydisplay.op.hs_hz=120
 vendor.primarydisplay.op.ns_hz=60
 vendor.primarydisplay.op.peak_refresh_rate=60
+persist.sys.perf.scroll_opt=true
+persist.sys.perf.scroll_opt.heavy_app=1
 
 # Fingerprint
 ro.vendor.fingerprint.ta.name=g7a.app
